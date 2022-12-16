@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+* {
+  font-family: 'Roboto', sans-serif; }
+
+.navegacion {
+  font-size: 180%;
+  text-align: center;
+  padding: 30px;
+  font-weight: 400;
+  transition: filter 0.5s; }
+
+.navegacion:hover {
+  filter: drop-shadow(0px 0px 5px white); }
+
+footer h4 {
+  font-weight: 700; }
+
+.perfil {
+  border-radius: 50px; }
+
+.parrafo {
+  font-size: 20px; }
+
+.contacto {
+  font-size: 24px; }
+
+.enviar {
+  font-size: 50px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: filter 0.5s; }
+
+.enviar:hover {
+  filter: drop-shadow(0px 0px 5px white); }
+
+.rrss {
+  font-size: 48px;
+  transition: filter 0.5s;
+  color: white; }
+
+.rrss:hover {
+  filter: drop-shadow(0px 0px 5px white); }
+
+/*# sourceMappingURL=syle.css.map */
